@@ -12,4 +12,4 @@ My First computing device was a old laptop that was a family laptop, since then 
 
 #Something Interesting About You
 I like to Cycle and play Basketball, I often spend my freetime in the summer doing these two activities wether it is with my friends or by myself. 
-![bike](./images/bike.png "bike")
+![bike](./images/download.gif "bike")
