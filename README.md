@@ -14,5 +14,5 @@ My First computing device was a old laptop that was a family laptop, since then 
 I like to Cycle and play Basketball, I often spend my freetime in the summer doing these two activities wether it is with my friends or by myself. 
 
 <p align="center">
-    ![bike](./images/download.gif "bike")
-</p>>
+    <img width=200 src= "/images/download.gif" alt="bike">
+</p>
